@@ -28,4 +28,4 @@ set textwidth=79
 syntax on
 
 " Lecture des raccourcis clavier généraux
-execute 'source ' . $HOME . '.vim/shortkeys.vim'
+execute 'source ' . $HOME . '/.vim/shortkeys.vim'
